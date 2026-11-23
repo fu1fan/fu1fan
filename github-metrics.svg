@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EternalYMZ/Optimal-mean-comparisons-in-Shellsort</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Project S · P04 · Lean proofs that ordinary Shellsort attains Θ(n log n) mean key comparisons on uniform random permutations using a gap table chosen from n alone. The number of passes may grow with n. The bound counts comparisons made during sorting.</div>
@@ -424,7 +424,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Nov 2026, 16:43:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 24 Nov 2026, 04:59:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
